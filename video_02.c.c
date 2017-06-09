@@ -1,7 +1,11 @@
 #include<stdio.h>
 #include<locale.h>
 
-
+/* 
+NOME: Angelo Alfredo Nunes Pereira RA: 2216112268
+Nome: Bruno Henrique Pavão Inacio  RA: 2216203495
+Nome: Lucio Flavio Nunes Pereira   RA: 2216112269
+*/
 
 
 int main(){
